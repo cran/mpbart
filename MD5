@@ -1,4 +1,4 @@
-68b328e7e6979e888f6fd19b7af0b2f1 *DESCRIPTION
+fc8e02617f6d7c7784823604365a54ca *DESCRIPTION
 52f7aed6c39da6acb23941c1a672bdff *NAMESPACE
 202ae30c91cc549180730926ec664f8e *R/mpbart.R
 cd45752cb2f45dd4b39bf80a032df519 *R/mpbart_call.R
@@ -8,9 +8,9 @@ a892fd216262fa6d37c697a9301d4aca *man/mpbart.Rd
 f009e46fcf131d28ea4ead122961b7bd *src/Makevars
 3491d83886efd022501bff316686d129 *src/bd.cpp
 c64ed14e55f138c0e86de22d36fc5947 *src/bd.h
-0c5ea282bba3e528f347ca0e95452aff *src/funs.cpp
+f49a3e7fc39b2bb32bf84ae5d8154e65 *src/funs.cpp
 cb1641ad786d7b4ec45d6a4a3380ddec *src/funs.h
 71e1609428b19be8e36cf60511819c19 *src/info.h
-9d00711e415a5cbd84f85e47729fa010 *src/rmnpMDA.cpp
+7e0750f2f2ca4702761e4a1020a7b57d *src/rmnpMDA.cpp
 e3b1521c1defb8e61688a893dc1cb0a6 *src/tree.cpp
 dd9d1ee426158fc9a4b59b3b7c361680 *src/tree.h
